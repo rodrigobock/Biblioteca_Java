@@ -8,9 +8,6 @@ public class Livros {
 	private boolean Estado;
 	private boolean Emprestado;
 
-	public Livros() {
-	};
-
 	public Livros(int id, String titulo, String autor, String genero, boolean estado, boolean emprestado) {
 		this.Id = id;
 		this.Titulo = titulo;
