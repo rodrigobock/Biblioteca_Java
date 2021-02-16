@@ -1,7 +1,7 @@
 package livro;
 
 public class Livro {
-	private int Id;
+	protected int Id;
 	public String Titulo;
 	public String Autor;
 	public String Genero;
